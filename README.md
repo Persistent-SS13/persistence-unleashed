@@ -1,6 +1,20 @@
-# Baystation [![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3.0-orange.svg)](https://opensource.org/licenses/AGPL-3.0) [![CodeQL](https://github.com/baystation12/baystation12/workflows/CodeQL/badge.svg)](https://github.com/Baystation12/Baystation12/actions/workflows/codeql-analysis.yml) [![CI Status](https://github.com/baystation12/baystation12/workflows/Run%20Tests/badge.svg)](https://github.com/Baystation12/Baystation12/actions/workflows/test.yml) [![codebeat badge](https://codebeat.co/badges/8ecb9a34-1bab-4d80-b34d-b16e8b216a03)](https://codebeat.co/projects/github-com-baystation12-baystation12-dev)
+<div background-color="#000011">
+	<h1 align="center">
+		<a href="https://github.com/Persistent-SS13/persistence-unleashed/" style="">
+			Persistent SS13
+		</a>
+		<br>
+	</h1>
+	<p align="center">
+		<a href="https://persistentss13.com/"><img alt="Website" src="https://img.shields.io/website/https/persistentss13.com.svg?down_message=Offline...&label=Website&up_message=Online%21"></a>
+		<a href="https://github.com/Persistent-SS13/persistence-unleashed/tree/dev"><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/Persistent-SS13/persistence-unleashed/dev.svg?label=Last%20Update"></a>
+    <img alt="Discord" src="https://img.shields.io/discord/1087916308160585740">
+    <img alt="License" src="https://img.shields.io/badge/License-AGPL_v3.0-orange.svg">
+	<h3 align="center">
+		The #1 persistent SS13 game!
+	</h3>
+  <p align="center"> Leveraging the foundation of Baystation's codebase, Persistent SS13, known as "Persistence," stands as a unique and captivating departure from the typical SS13 variations. Here, you, along with our growing community, become the master architects of the unfolding narrative. Begin your journey as an ordinary individual and shape your destiny in this immersive collaborative role-playing adventure sandbox! Whether you aspire to be a daring explorer, a diligent custodian, an entrepreneurial mogul (or die trying), or even embark on the grand endeavor of constructing your very own interplanetary vessel – the possibilities are endless, and the choice is entirely yours. Join us in crafting your permanent lore and storytelling experience <a href="https://discord.gg/fmqGHfScya">here</a>.
 
-[Website](https://baystation.xyz) - [Discord](https://baystation.xyz/discord) - [Code](https://baystation.xyz/github) - [DMDoc](https://dmdoc.baystation.xyz)
 
 ---
 
