@@ -2,7 +2,7 @@
 	name = "mediatronic jukebox"
 	desc = "An immense, standalone touchscreen on a swiveling base, equipped with phased array speakers. Embossed on one corner of the ultrathin bezel is the brand name, 'Leitmotif Enterprise Edition'."
 	icon = 'icons/obj/machines/jukebox_new.dmi'
-	icon_state = "jukebox3"
+	icon_state = "jukebox"
 	anchored = TRUE
 	density = TRUE
 	power_channel = EQUIP
