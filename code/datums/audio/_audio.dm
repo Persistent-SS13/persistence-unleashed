@@ -14,11 +14,6 @@
 /singleton/audio/track
 
 
-/singleton/audio/New()
-	. = ..()
-	license = GET_SINGLETON(license)
-
-
 /singleton/audio/VV_static()
 	return ..() + vars
 

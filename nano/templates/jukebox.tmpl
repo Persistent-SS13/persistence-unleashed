@@ -7,19 +7,24 @@
 <H3><span class="white">Volume Level:</span></H3>
 {{:helper.displayBar(data.volume, 0, 50, 'average')}}
 <div class="itemContent">
-    {{:helper.link('0',   null, {'act': 'volume', 'dat': 0},  data.volume == 0 ?  'disabled' : null, null)}}
-    {{:helper.link('1',  null, {'act': 'volume', 'dat': 10}, data.volume == 10 ? 'disabled' : null, null)}}
-    {{:helper.link('2',  null, {'act': 'volume', 'dat': 20}, data.volume == 20 ? 'disabled' : null, null)}}
-    {{:helper.link('3',  null, {'act': 'volume', 'dat': 30}, data.volume == 30 ? 'disabled' : null, null)}}
-    {{:helper.link('4',  null, {'act': 'volume', 'dat': 40}, data.volume == 40 ? 'disabled' : null, null)}}
-    {{:helper.link('5', null, {'act': 'volume', 'dat': 50}, data.volume == 50 ? 'disabled' : null, null)}}
+    {{:helper.link('0%', null, {'act': 'volume', 'dat': 0},  data.volume == 0 ?  'disabled' : null, null)}}
+    {{:helper.link('10%', null, {'act': 'volume', 'dat': 5}, data.volume == 5 ? 'disabled' : null, null)}}
+    {{:helper.link('20%', null, {'act': 'volume', 'dat': 10}, data.volume == 10 ? 'disabled' : null, null)}}
+    {{:helper.link('30%', null, {'act': 'volume', 'dat': 15}, data.volume == 15 ? 'disabled' : null, null)}}
+    {{:helper.link('40%', null, {'act': 'volume', 'dat': 20}, data.volume == 20 ? 'disabled' : null, null)}}
+    {{:helper.link('50%', null, {'act': 'volume', 'dat': 25}, data.volume == 25 ? 'disabled' : null, null)}}
+    {{:helper.link('60%', null, {'act': 'volume', 'dat': 30}, data.volume == 30 ? 'disabled' : null, null)}}
+    {{:helper.link('70%', null, {'act': 'volume', 'dat': 35}, data.volume == 35 ? 'disabled' : null, null)}}
+    {{:helper.link('80%', null, {'act': 'volume', 'dat': 40}, data.volume == 40 ? 'disabled' : null, null)}}
+    {{:helper.link('90%', null, {'act': 'volume', 'dat': 45}, data.volume == 45 ? 'disabled' : null, null)}}
+    {{:helper.link('100%', null, {'act': 'volume', 'dat': 50}, data.volume == 50 ? 'disabled' : null, null)}}
 </div>
 
 <H3><span class="white">Available tracks:</span></H3>
 <div class="itemContent">
     {{for data.tracks}}
         <div class="item">
-            {{:helper.link(value.track, 'gear', {'act': 'track', 'dat': value.index}, value.track == data.track ? 'disabled' : null, null)}}    
+            {{:helper.link(value.track, 'gear', {'act': 'track', 'dat': value.index}, value.track == data.track ? 'disabled' : null, null)}}
         </div>
     {{/for}}
 </div>
