@@ -224,10 +224,6 @@
 	source = 'sound/music/jukebox/AmpTunes_Blast_Night.mid'
 	title = "AmpTunes - Blast Night"
 
-/singleton/audio/track/jukebox/amptunes/edgybanger
-	source = 'sound/music/jukebox/AmpTunes_Blast_Night.mid'
-	title = "AmpTunes - Edgy Banger"
-
 /singleton/audio/track/jukebox/amptunes/enguard
 	source = 'sound/music/jukebox/AmpTunes_En_Guard.mid'
 	title = "AmpTunes - En Guard"
