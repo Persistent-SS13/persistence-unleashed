@@ -9,7 +9,7 @@
 	idle_power_usage = 10
 	active_power_usage = 100
 	clicksound = 'sound/machines/buttonbeep.ogg'
-	pixel_x = -8
+	pixel_x = 0
 	obj_flags = OBJ_FLAG_ANCHORABLE
 	layer = ABOVE_WINDOW_LAYER
 
