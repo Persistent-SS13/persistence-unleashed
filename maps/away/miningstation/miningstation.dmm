@@ -6808,7 +6808,6 @@
 /area/miningstation/kitchen)
 "pG" = (
 /obj/structure/table/marble,
-/obj/machinery/microwave,
 /obj/effect/floor_decal/corner/blue{
 	dir = 4
 	},
@@ -6819,7 +6818,6 @@
 /area/miningstation/kitchen)
 "pH" = (
 /obj/structure/table/marble,
-/obj/machinery/microwave,
 /obj/effect/floor_decal/corner/blue{
 	dir = 4
 	},

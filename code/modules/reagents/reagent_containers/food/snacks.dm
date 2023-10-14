@@ -213,13 +213,6 @@
 				var/obj/item/reagent_containers/food/snacks/S = new slice_path (src.loc)
 				reagents.trans_to_obj(S, reagents_per_slice)
 
-				if(istype(src, /obj/item/reagent_containers/food/snacks/sliceable/variable))
-					S.SetName("[name] slice")
-					S.filling_color = filling_color
-					var/image/I = image(S.icon, "[S.icon_state]_filling")
-					I.color = filling_color
-					S.AddOverlays(I)
-
 			qdel(src)
 			return
 
@@ -324,8 +317,6 @@
 	reagents.add_reagent(/datum/reagent/nutriment/protein/egg, 3)
 
 /obj/item/reagent_containers/food/snacks/egg/afterattack(obj/O as obj, mob/user as mob, proximity)
-	if(istype(O,/obj/machinery/microwave))
-		return ..()
 	if(!(proximity && O.is_open_container()))
 		return
 	to_chat(user, "You crack \the [src] into \the [O].")

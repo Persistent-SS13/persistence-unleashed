@@ -640,7 +640,6 @@
 /area/map_template/ninja_dojo/dojo)
 "bz" = (
 /obj/structure/table/woodentable,
-/obj/machinery/microwave,
 /turf/unsimulated/floor{
 	dir = 8;
 	icon_state = "wood"

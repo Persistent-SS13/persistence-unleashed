@@ -3851,7 +3851,6 @@
 /area/errant_pisces/dorms)
 "jt" = (
 /obj/structure/table/marble,
-/obj/machinery/microwave,
 /turf/simulated/floor/tiled,
 /area/errant_pisces/dorms)
 "ju" = (

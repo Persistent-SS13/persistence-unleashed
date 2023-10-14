@@ -105,8 +105,7 @@
 							/obj/item/reagent_containers/food/snacks/grown                      = TRADER_BLACKLIST_ALL,
 							/obj/item/reagent_containers/food/snacks/human                      = TRADER_BLACKLIST_ALL,
 							/obj/item/reagent_containers/food/snacks/sliceable/braincake        = TRADER_BLACKLIST,
-							/obj/item/reagent_containers/food/snacks/meat/human                 = TRADER_BLACKLIST,
-							/obj/item/reagent_containers/food/snacks/variable                   = TRADER_BLACKLIST_ALL
+							/obj/item/reagent_containers/food/snacks/meat/human                 = TRADER_BLACKLIST
 							)
 
 	speech = list(TRADER_HAIL_GENERIC     = "Hello, welcome to ORIGIN, grocery store of the future!",

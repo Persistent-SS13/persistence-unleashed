@@ -6255,7 +6255,6 @@
 /obj/structure/table/standard{
 	name = "plastic table frame"
 	},
-/obj/machinery/microwave,
 /turf/simulated/floor/tiled/dark/monotile,
 /area/aquila/storage)
 "py" = (

@@ -3493,7 +3493,6 @@
 	level = 2
 	},
 /obj/structure/table/marble,
-/obj/machinery/microwave,
 /turf/simulated/floor/lino,
 /area/map_template/colony/messhall)
 "gD" = (

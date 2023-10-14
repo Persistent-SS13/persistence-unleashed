@@ -31,10 +31,6 @@
 /area/map_template/deepmaint)
 "ah" = (
 /obj/structure/table/standard,
-/obj/machinery/microwave{
-	pixel_x = -3;
-	pixel_y = 6
-	},
 /turf/simulated/floor/tiled/white,
 /area/map_template/deepmaint)
 "ai" = (

@@ -2807,7 +2807,6 @@
 /area/map_template/oldlab/station/hall)
 "UR" = (
 /obj/structure/table/steel,
-/obj/machinery/microwave,
 /obj/effect/floor_decal/corner/red,
 /obj/effect/floor_decal/corner/red{
 	dir = 1

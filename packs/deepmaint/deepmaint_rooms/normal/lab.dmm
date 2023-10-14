@@ -304,7 +304,6 @@
 /area/map_template/deepmaint)
 "BI" = (
 /obj/structure/table/standard,
-/obj/machinery/microwave,
 /obj/effect/floor_decal/corner/purple/mono,
 /turf/simulated/floor/tiled/white/monotile,
 /area/map_template/deepmaint)

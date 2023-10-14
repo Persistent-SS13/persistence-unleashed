@@ -2474,7 +2474,6 @@
 /area/ship/scrap/maintenance/engine/port)
 "eE" = (
 /obj/structure/table/standard,
-/obj/machinery/microwave,
 /obj/machinery/light/small{
 	dir = 8;
 	icon_state = "bulb1"

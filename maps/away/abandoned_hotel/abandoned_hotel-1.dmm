@@ -3250,7 +3250,6 @@
 "Ru" = (
 /obj/effect/floor_decal/corner/black/diagonal,
 /obj/structure/table/marble,
-/obj/machinery/microwave,
 /turf/simulated/floor/tiled/kafel_full,
 /area/abandoned_hotel/kitchen)
 "RA" = (

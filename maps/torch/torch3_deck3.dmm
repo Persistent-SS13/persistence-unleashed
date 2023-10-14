@@ -1465,7 +1465,6 @@
 /obj/machinery/light{
 	dir = 1
 	},
-/obj/machinery/cooker/fryer,
 /turf/simulated/floor/tiled/white,
 /area/crew_quarters/galley)
 "dB" = (
@@ -1523,9 +1522,6 @@
 	dir = 4
 	},
 /obj/structure/table/marble,
-/obj/machinery/cooker/cereal{
-	pixel_y = 8
-	},
 /turf/simulated/floor/tiled/white,
 /area/crew_quarters/galley)
 "dH" = (
@@ -2237,7 +2233,6 @@
 /obj/item/device/radio/intercom{
 	pixel_y = 23
 	},
-/obj/machinery/cooker/grill,
 /turf/simulated/floor/tiled/white,
 /area/crew_quarters/galley)
 "fr" = (
@@ -2299,10 +2294,6 @@
 	pixel_y = 24
 	},
 /obj/structure/table/marble,
-/obj/machinery/microwave{
-	pixel_x = -1;
-	pixel_y = 6
-	},
 /turf/simulated/floor/tiled/white,
 /area/crew_quarters/galley)
 "fw" = (
@@ -3162,10 +3153,6 @@
 	dir = 4
 	},
 /obj/structure/table/marble,
-/obj/machinery/microwave{
-	pixel_x = -1;
-	pixel_y = 6
-	},
 /turf/simulated/floor/tiled/white,
 /area/crew_quarters/galley)
 "hp" = (
@@ -3367,7 +3354,6 @@
 /area/vacant/mess)
 "hE" = (
 /obj/structure/table/marble,
-/obj/machinery/microwave,
 /turf/simulated/floor/plating,
 /area/vacant/mess)
 "hG" = (
@@ -5341,10 +5327,6 @@
 /area/crew_quarters/observation)
 "mb" = (
 /obj/structure/table/woodentable/walnut,
-/obj/machinery/microwave{
-	pixel_x = -3;
-	pixel_y = 6
-	},
 /obj/machinery/light{
 	dir = 1;
 	icon_state = "tube1"
@@ -7372,10 +7354,6 @@
 	dir = 4;
 	pixel_x = -31
 	},
-/obj/machinery/microwave{
-	pixel_x = -1;
-	pixel_y = 6
-	},
 /turf/simulated/floor/tiled/white,
 /area/crew_quarters/galley)
 "rp" = (
@@ -7992,10 +7970,6 @@
 	dir = 8
 	},
 /obj/structure/table/marble,
-/obj/machinery/microwave{
-	pixel_x = -1;
-	pixel_y = 6
-	},
 /turf/simulated/floor/tiled/white,
 /area/crew_quarters/galley)
 "sB" = (
@@ -9427,7 +9401,6 @@
 	dir = 4
 	},
 /obj/structure/table/marble,
-/obj/item/material/chopping_board,
 /turf/simulated/floor/tiled/white,
 /area/crew_quarters/galley)
 "wy" = (
@@ -12915,7 +12888,6 @@
 /obj/effect/floor_decal/corner/grey/diagonal{
 	dir = 4
 	},
-/obj/machinery/cooker/oven,
 /turf/simulated/floor/tiled/white,
 /area/crew_quarters/galley)
 "FZ" = (
@@ -13232,10 +13204,6 @@
 /area/vacant/cabin)
 "GN" = (
 /obj/structure/table/steel,
-/obj/machinery/microwave{
-	pixel_x = -3;
-	pixel_y = 6
-	},
 /turf/simulated/floor/tiled/dark,
 /area/vacant/cabin)
 "GO" = (
@@ -18382,9 +18350,6 @@
 	dir = 1
 	},
 /obj/structure/table/marble,
-/obj/machinery/cooker/candy{
-	pixel_y = 13
-	},
 /turf/simulated/floor/tiled/white,
 /area/crew_quarters/galley)
 "Uh" = (

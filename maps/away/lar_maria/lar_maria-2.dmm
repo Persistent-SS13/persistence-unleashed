@@ -3241,7 +3241,6 @@
 /area/lar_maria/mess_hall)
 "iY" = (
 /obj/structure/table/marble,
-/obj/machinery/microwave,
 /obj/machinery/light,
 /turf/simulated/floor/tiled/white,
 /area/lar_maria/mess_hall)

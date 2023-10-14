@@ -9907,7 +9907,6 @@
 /area/security/bo)
 "aIc" = (
 /obj/structure/table/standard,
-/obj/machinery/microwave,
 /turf/simulated/floor/tiled/monotile,
 /area/security/brig)
 "aIe" = (

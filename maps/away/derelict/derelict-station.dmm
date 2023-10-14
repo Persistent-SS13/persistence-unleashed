@@ -821,7 +821,6 @@
 /area/constructionsite/hallway/fore)
 "cE" = (
 /obj/structure/table/marble,
-/obj/machinery/microwave,
 /turf/simulated/floor,
 /area/constructionsite/hallway/fore)
 "cF" = (

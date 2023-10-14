@@ -1201,7 +1201,6 @@
 /area/lost_supply_base/common)
 "df" = (
 /obj/structure/table/standard,
-/obj/machinery/microwave,
 /turf/simulated/floor/tiled,
 /area/lost_supply_base/common)
 "dg" = (

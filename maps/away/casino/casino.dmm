@@ -2687,7 +2687,6 @@
 /area/casino/casino_kitchen)
 "hL" = (
 /obj/structure/table/marble,
-/obj/machinery/microwave,
 /turf/simulated/floor/tiled,
 /area/casino/casino_kitchen)
 "hM" = (

@@ -2471,7 +2471,6 @@
 /turf/simulated/floor/shuttle/red,
 /area/shuttle/administration/centcom)
 "auk" = (
-/obj/machinery/microwave,
 /obj/structure/table/reinforced,
 /turf/simulated/floor/shuttle/red,
 /area/shuttle/administration/centcom)
@@ -2930,10 +2929,6 @@
 /area/centcom/living)
 "avQ" = (
 /obj/structure/table/standard,
-/obj/machinery/microwave{
-	pixel_x = -3;
-	pixel_y = 6
-	},
 /turf/unsimulated/floor{
 	icon_state = "white"
 	},
@@ -7020,7 +7015,6 @@
 /area/tdome)
 "aKB" = (
 /obj/structure/table/standard,
-/obj/machinery/microwave,
 /turf/unsimulated/floor{
 	icon_state = "white"
 	},
@@ -7453,7 +7447,6 @@
 /turf/simulated/floor/tiled,
 /area/acting/stage)
 "aLw" = (
-/obj/machinery/microwave,
 /turf/unsimulated/floor{
 	icon_state = "plating";
 	name = "plating"
@@ -8337,10 +8330,6 @@
 /turf/space,
 /area/merchant_station)
 "aOx" = (
-/obj/machinery/microwave{
-	pixel_x = -3;
-	pixel_y = 6
-	},
 /obj/structure/table/reinforced,
 /obj/effect/floor_decal/corner/blue/three_quarters{
 	dir = 8

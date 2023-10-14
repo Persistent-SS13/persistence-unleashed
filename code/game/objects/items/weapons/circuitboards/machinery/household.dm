@@ -1,18 +1,3 @@
-/obj/item/stock_parts/circuitboard/microwave
-	name = "circuit board (microwave)"
-	build_path = /obj/machinery/microwave
-	board_type = "machine"
-	origin_tech = list(TECH_BIO = 2, TECH_ENGINEERING = 2)
-	req_components = list(
-		/obj/item/stock_parts/manipulator = 1,
-		/obj/item/stock_parts/micro_laser = 2,
-		/obj/item/stock_parts/matter_bin = 1)
-	additional_spawn_components = list(
-		/obj/item/stock_parts/console_screen = 1,
-		/obj/item/stock_parts/keyboard = 1,
-		/obj/item/stock_parts/power/apc/buildable = 1
-	)
-
 /obj/item/stock_parts/circuitboard/gibber
 	name = "circuit board (meat gibber)"
 	build_path = /obj/machinery/gibber
@@ -26,25 +11,6 @@
 		/obj/item/stock_parts/keyboard = 1,
 		/obj/item/stock_parts/power/apc/buildable = 1
 	)
-
-/obj/item/stock_parts/circuitboard/cooker
-	name = "circuit board (candy machine)"
-	build_path = /obj/machinery/cooker/candy
-	board_type = "machine"
-	origin_tech = list(TECH_BIO = 1, TECH_MATERIAL = 1)
-	buildtype_select = TRUE
-	req_components = list(
-		/obj/item/stock_parts/manipulator = 2,
-		/obj/item/stock_parts/matter_bin = 1,
-		/obj/item/stack/cable_coil = 10)
-	additional_spawn_components = list(
-		/obj/item/stock_parts/console_screen = 1,
-		/obj/item/stock_parts/keyboard = 1,
-		/obj/item/stock_parts/power/apc/buildable = 1
-	)
-
-/obj/item/stock_parts/circuitboard/cooker/get_buildable_types()
-	return subtypesof(/obj/machinery/cooker)
 
 /obj/item/stock_parts/circuitboard/honey
 	name = "circuit board (honey extractor)"

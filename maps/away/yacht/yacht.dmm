@@ -294,7 +294,6 @@
 /area/yacht/living)
 "aS" = (
 /obj/structure/table/marble,
-/obj/machinery/microwave,
 /obj/effect/decal/cleanable/dirt,
 /turf/simulated/floor/wood/yew,
 /area/yacht/living)

@@ -619,7 +619,6 @@
 "bw" = (
 /obj/structure/table/reinforced,
 /obj/effect/floor_decal/corner/blue/diagonal,
-/obj/machinery/microwave,
 /turf/unsimulated/floor{
 	icon_state = "dark"
 	},

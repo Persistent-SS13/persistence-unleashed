@@ -2679,7 +2679,6 @@
 /area/meatstation/hydroponics)
 "fV" = (
 /obj/structure/table/marble,
-/obj/machinery/microwave,
 /obj/effect/floor_decal/corner/lime/diagonal,
 /turf/simulated/floor/tiled/dark,
 /area/meatstation/kitchen)

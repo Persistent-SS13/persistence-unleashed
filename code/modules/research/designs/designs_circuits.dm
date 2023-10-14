@@ -738,27 +738,12 @@
 	build_path = /obj/item/stock_parts/circuitboard/washer
 	sort_string = "WAAAS"
 
-/datum/design/circuit/microwave
-	name = "microwave"
-	id = "microwave"
-	req_tech = list(TECH_BIO = 2, TECH_ENGINEERING = 2)
-	build_path = /obj/item/stock_parts/circuitboard/microwave
-	sort_string = "WAAAT"
-
 /datum/design/circuit/gibber
 	name = "meat gibber"
 	id = "gibber"
 	req_tech = list(TECH_BIO = 2, TECH_ENGINEERING = 2)
 	build_path = /obj/item/stock_parts/circuitboard/gibber
 	sort_string = "WAAAU"
-
-/datum/design/circuit/cooker
-	name = "kitchen appliance (assorted)"
-	desc = "Allows for the construction of an interchangable cooking appliance circuit board. Use a multitool to select appliance."
-	id = "cooker"
-	req_tech = list(TECH_BIO = 1, TECH_MATERIAL = 1)
-	build_path = /obj/item/stock_parts/circuitboard/cooker
-	sort_string = "WAAAV"
 
 /datum/design/circuit/honey_extractor
 	name = "honey extractor"

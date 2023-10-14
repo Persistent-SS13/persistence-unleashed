@@ -4355,7 +4355,6 @@
 /area/ship/skrellscoutship/hangar)
 "xF" = (
 /obj/structure/table/standard,
-/obj/machinery/microwave,
 /turf/simulated/floor/tiled/skrell/white,
 /area/ship/skrellscoutship/crew/rec)
 "xI" = (

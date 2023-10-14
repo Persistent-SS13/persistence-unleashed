@@ -247,7 +247,6 @@
 /area/bluespaceriver/ship)
 "aS" = (
 /obj/structure/table/steel,
-/obj/machinery/microwave,
 /turf/simulated/floor/tiled,
 /area/bluespaceriver/ship)
 "aT" = (

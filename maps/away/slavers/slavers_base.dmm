@@ -3179,7 +3179,6 @@
 /area/slavers_base/dorms)
 "hX" = (
 /obj/structure/table/standard,
-/obj/machinery/microwave,
 /turf/simulated/floor/tiled,
 /area/slavers_base/dorms)
 "hY" = (
