@@ -1,0 +1,1 @@
+#define LOG_CATEGORY_HREF_TGUI "href-tgui"

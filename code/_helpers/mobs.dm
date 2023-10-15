@@ -323,3 +323,5 @@
 	if(damflags & DAMAGE_FLAG_BIO)
 		res += "bio"
 	return english_list(res)
+
+#define GET_CLIENT(mob) (##mob.client || ##mob.mock_client)
