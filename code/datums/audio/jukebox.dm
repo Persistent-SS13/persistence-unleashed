@@ -166,7 +166,6 @@ GLOBAL_LIST_INIT(jukebox_tracks, list(
 /singleton/audio/track/jukebox/ambiaesthetic/whatnow,
 /singleton/audio/track/jukebox/amptunes/battlesarrived,
 /singleton/audio/track/jukebox/amptunes/blastnight,
-/singleton/audio/track/jukebox/amptunes/edgybanger,
 /singleton/audio/track/jukebox/amptunes/enguard,
 /singleton/audio/track/jukebox/amptunes/enemyinbound,
 /singleton/audio/track/jukebox/amptunes/instructions,
